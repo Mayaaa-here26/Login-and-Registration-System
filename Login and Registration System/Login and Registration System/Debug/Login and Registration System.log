@@ -1,16 +1,16 @@
-﻿Build started 23/03/2026 2:51:53 pm.
-     1>Project "c:\Users\marya\documents\visual studio 2012\Projects\Login and Registration System\Login and Registration System\Login and Registration System.vcxproj" on node 2 (Build target(s)).
+﻿Build started 23/03/2026 2:54:38 pm.
+     1>Project "C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Login and Registration System\Login and Registration System.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Login and Registration System.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
          stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Login and Registration System.cpp"
          Login and Registration System.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\marya\documents\visual studio 2012\Projects\Login and Registration System\Debug\Login and Registration System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\marya\documents\visual studio 2012\Projects\Login and Registration System\Debug\Login and Registration System.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\marya\documents\visual studio 2012\Projects\Login and Registration System\Debug\Login and Registration System.lib" /MACHINE:X86 "Debug\Login and Registration System.obj"
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Debug\Login and Registration System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Debug\Login and Registration System.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Debug\Login and Registration System.lib" /MACHINE:X86 "Debug\Login and Registration System.obj"
          Debug\stdafx.obj
-         Login and Registration System.vcxproj -> c:\users\marya\documents\visual studio 2012\Projects\Login and Registration System\Debug\Login and Registration System.exe
-     1>Done Building Project "c:\Users\marya\documents\visual studio 2012\Projects\Login and Registration System\Login and Registration System\Login and Registration System.vcxproj" (Build target(s)).
+         Login and Registration System.vcxproj -> C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Debug\Login and Registration System.exe
+     1>Done Building Project "C:\Users\marya\Documents\GitHub\Login and Registration System\Login and Registration System\Login and Registration System\Login and Registration System.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.49
+Time Elapsed 00:00:02.41
